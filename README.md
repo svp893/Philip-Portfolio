@@ -9,7 +9,11 @@ I hope to learn how to better present my data so that audience members can more 
 
 # Portfolio Content
 Data Visualization #1
+
 Assignment #2
+
 Assignment #3
+
 Assignment #4
+
 Final Project
