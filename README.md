@@ -7,7 +7,7 @@ Hi! My name is Sophia Philip (She/her/hers). I am getting my MS in Health Care P
 # What I hope to learn
 I hope to learn how to better present my data so that audience members can more easily find the information they need. Having a repertoire of visual tools to better communicate is of great importance to uphold equity and access. 
 
-#Portfolio Content
+# Portfolio Content
 Data Visualization #1
 Assignment #2
 Assignment #3
