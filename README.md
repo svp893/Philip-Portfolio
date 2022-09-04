@@ -2,7 +2,7 @@
 This is my public portfolio for Telling Stories with Data at CMU
 
 # About Me
-![small prof pic](https://user-images.githubusercontent.com/112327944/188291310-63fd75ee-373e-48d7-b962-1bc4a6144f62.jpeg)
+![tiny prof pic](https://user-images.githubusercontent.com/112327944/188291360-c65796e2-a3c0-4578-a749-0d6b88342366.jpeg)
 
 Hi! My name is Sophia Philip (She/her/hers). I am getting my MS in Health Care Policy and Management. I have worked across public health, education and the arts throughout my career. I am motivated by work at the intersection of systems and people, improving how they work for those they serve. My training is in ethnography and I have expanded my tool kit to include qualitative and quantitative research, service and user experience design as well as project management. My work has allowed me to tackle problems such as developing evidence-based curriculums in public schools for over 4,000 students, designing vaccine access strategies working with immigrant communities, and redesigning website experiences for patients in a statewide medical system. I seek a work environment that strives to find new ways to not only do good, but do better, whether it's overhauling a system to revising an interface.
 
