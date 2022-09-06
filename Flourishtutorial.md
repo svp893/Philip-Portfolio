@@ -1,4 +1,4 @@
-# Flouish
+# Flourish
 Here's my visualization
 
 
