@@ -11,16 +11,16 @@ Hi! My name is Sophia Philip (she/her/hers), I am getting my MS in Health Care P
 I hope to learn how to better present my data so that audience members can more easily find the information they need. Having a repertoire of visual tools to better communicate is of great importance to uphold equity and access. 
 
 # Portfolio Content
-Data Visualization #1
+## Data Visualization #1
 
-Data Visualization #2
+## Assignment 2 - Visualizing Government Debt
 Here is my Data Visualization #2 project:
 <iframe src="https://data.oecd.org/chart/6OdA" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6OdA" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
-Assignment #2
+## Assignment #2
 
-Assignment #3
+## Assignment #3
 
-Assignment #4
+## Assignment #4
 
-Final Project
+## Final Project
