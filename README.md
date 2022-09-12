@@ -15,7 +15,7 @@ I hope to learn how to better present my data so that audience members can more 
 
 ## Assignment 2 - Visualizing Government Debt
 
-The following graphs use OECD data featuring the Debt-to-GDP ratio across several countries and decades. By sifting through this data on platforms, such as Flourish and Tableau, we being to see the stories intertwined in the data.  
+The following graphs use OECD data featuring the Debt-to-GDP ratio across several countries and decades. By sifting through this data on platforms, such as Flourish and Tableau, we begin to see the stories intertwined in the data.  
 
 ### Government Debt Chart
 
