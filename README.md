@@ -38,6 +38,9 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 
 <iframe src="https://public.tableau.com/views/OECDDataVizTableau1/OECDDataViz1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
+## In Class Tableau Exercise
+https://public.tableau.com/views/InClassNewsMediaPracticeExercise1/Sheet1?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+
 ## Assignment #2
 
 ## Assignment #3
