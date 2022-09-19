@@ -76,26 +76,23 @@ I found this data visualization to be significant as it aimed to explore the cur
 With these reflections as my starting point, I began iterating…
 
 ### Iteration 1
-<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/complex%20bar%20chart.jpg" width="300" height="auto" />
+![complexbar](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/complex%20bar%20chart.jpg)
 The first sketch explored using a gradient of colors and gray to de-emphasize the data of people who are not worried. I kept all the categories and original bar chart format. I kept this wireframe undetailed as I recognized I would need to reduce the number of variables shown. 
 
 ### Iteration 2
-<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/Simplified%20bar%20chart.JPG" width="300" height="auto" />
+![simple bar](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Simplified%20bar%20chart.JPG)
 The second sketch has reduced categories, "worried" and "not worried". I used red to signal a negative or warning connotation and includeded the title "Americans worry about getting Monkeyox as it continues to rise in a pandemic landscape". I felt the title was misleading as I did not have data showing it was rising alongside this chart. 
 
 ### Iteration 3
-<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/3%20color%20pie.JPG" width="300" height="auto" />
+![3 color pie](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/3%20color%20pie.JPG)
 I shifted to a pie chart, creating a three color visual to see if the new format would make the sub categories more effective. In the end, I found it to still be too cluttered. I switched to purple as I felt red or orange hues were too alarmist. 
  
 ### Iteration 4
-<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG" width="300" height="auto" />
+![2 color pie](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/2%20color%20pie.JPG)
 Reducing the categories to two allowed me to get right to the point of the data. I still was not satisfied with the title but waited for feedback to adjust. 
 
-TEST
-![2 color pie](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/2%20color%20pie.JPG)
-
 ### Bonus Iteration
-<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/People%20graph.JPG" width="300" height="auto" />
+![people chart](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/People%20graph.JPG)
 I added in this wireframe as I think the title of the article would have been better supported with a data visualization of model people representing the proportions seeing as the title is: "Survey: 1 in 5 Americans Fear Getting Monkeypox but Many Know Little About It". 
 
 ### Visualization Critique
