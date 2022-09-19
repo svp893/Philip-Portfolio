@@ -68,22 +68,49 @@ style=“list-style-type:disc”
 <li>The title of the visualization is only the question asked in the survey, without context provided in the article, it is difficult to know the takeaway from people’s responses and how it connects to the bigger picture</li>
 <li>There is too much text, and in varying font colors, that further hinder the perceptibility</li>
 <li>Having the date of the survey be referenced in the footer is extremely helpful for reliability as it shows the relevancy </li>
+<li>The comparison of COVID-19 and Monkeypox is not clearly explained through the title and leaves the audience to infer why there is a comparison</li>
 <li>Providing more information on the size of the sample and demographics would have contributed to its truthfulness by offering transparency of the sampling process</li>
 <li>Would it serve the purpose of the article better to reduce the number of categories and change the style of graph? </li>
 
-
 With these reflections as my starting point, I began iterating…
 
-
+### Iteration 1
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/complex%20bar%20chart.jpg" width="200" height="auto" />
+The first sketch explored using a gradient of colors and gray to de-emphasize the data of people who are not worried. I kept all the categories and original bar chart format. I kept this wireframe undetailed as I recognized I would need to reduce the number of variables shown. 
 
+### Iteration 2
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/Simplified%20bar%20chart.JPG" width="200" height="auto" />
+The second sketch has reduced categories, "worried" and "not worried". I used red to signal a negative or warning connotation and includeded the title "Americans worry about getting Monkeyox as it continues to rise in a pandemic landscape". I felt the title was misleading as I did not have data showing it was rising alongside this chart. 
 
+### Iteration 3
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/3%20color%20pie.JPG" width="200" height="auto" />
+I shifted to a pie chart, creating a three color visual to see if the new format would make the sub categories more effective. In the end, I found it to still be too cluttered. I switched to purple as I felt red or orange hues were too alarmist. 
  
+ ### Iteration 4
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG" width="200" height="auto" />
+Reducing the categories to two allowed me to get right to the point of the data. I still was not satisfied with the title but waited for feedback to adjust. 
 
+### Bonus Iteration
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/People%20graph.JPG" width="200" height="auto" />
+I added in this wireframe as I think the title of the article would have been better supported with a data visualization of model people representing the proportions seeing as the title is: "Survey: 1 in 5 Americans Fear Getting Monkeypox but Many Know Little About It". 
 
+### Visualization Critique
+I showed two individuals Iteration 4, the two color pie chart.
 
+#### Participant 1 (64 year old female):
+The participant was able to tell that the graphs represented people who were and were not worried about getting COVID-19 or Monkeypox, purple being those who are worried, gray being those who are not. Overall, they found the two color system to be effective. They were indifferent about the title as they felt they got the information they needed to know from the visualization alone. The paticipant expressed interest in wanting to know the total sample size so as to understand what type of population the percentages represented. 
 
+#### Participant 2 (23 year old male):
+The participant could tell that the visualization was showing them a comparison of Americans that are worried about Monkeypox versus COVID-19. The participant suggested making the titles of each pie chart the same color as the wedge, i.e. purple, so as to help them make the connection between the pie slice representing concern for that disease. They were surprised that concern regarding Monkeypox was so low and would have like to have seen the date of data collection. Overall, the visualiation is concise, easy to read and allowed them to quickly get to what is important for them: who is worried about what. The participant was also curious to know where sample participants are from; however, the website does not give access to that data. 
+
+### Final Revised Data Visualization
+
+Based off of the feedback and the data I had access to via the original site, I was able to create the two color pie chart in FLourish. I decided to make the following adjustments
+
+style=“list-style-type:disc”
+<li>Changed the title to "Current Concern for Americans as Monkeypox Continues to Spread Amidst Pandemic Landscape"</li>
+<li>Added in a subheader of date data collection and how many sample participants</li>
+<li>I changed the color to a marigold yellow for a cautionary effect</li>
+<li>I made sure to include the source</li>
+  
+<div class="flourish-embed flourish-chart" data-src="visualisation/11219251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
