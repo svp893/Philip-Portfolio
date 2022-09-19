@@ -68,6 +68,8 @@ I selected the
 
 ![2 color pie](https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG)
 
-![3 color pie](https://github.com/svp893/Philip-Portfolio/blob/main/images/3%20color%20pie.JPG)
 
-![people graph](https://github.com/svp893/Philip-Portfolio/blob/main/images/People%20graph.JPG)
+<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG" width="200" height="400" />
+
+
+
