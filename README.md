@@ -51,8 +51,8 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 
 ## Assignment #2
 
-## Assignment #3
+## Assignment #3 and #4
 
-## Assignment #4
+<div class="flourish-embed flourish-chart" data-src="visualisation/11219251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Final Project
