@@ -115,5 +115,5 @@ Based off of the feedback and the data I had access to via the original site, I 
 <li>I made sure to include the source as participants seemed interested in knowing where the data came from</li>
 <li>Participant's 2 reaction to liking the binary of "worried" or "not worried" validated my inclination that simplified data categories would better serve the audiences that viewed this graph. 
 <li> My goal was to contextualize the data given the article was focused on sharing information regarding concern and how that tied into people's knowledge of Monkeypox. I would have been interested in creating a visualization correlating concern of Monkeypox given participant location or level of knowledge of Monkeypox. Unfortunately, that data was not available. I learned through these exercises that finding health related data sets and visualizations needing improvement can sometimes be difficult as often privacy and liabilty hinders institutions from sharing complete information. Although the data for this visualization was limited, I felt I was able to practice the best methods to provide clear information, succintly and honestly. 
-  
+   <br>
 <div class="flourish-embed flourish-chart" data-src="visualisation/11219251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
