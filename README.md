@@ -21,10 +21,6 @@ The following graphs use OECD data featuring the Debt-to-GDP ratio across severa
 ---
 [OECD Data Government Debt Chart](https://svp893.github.io/Philip-Portfolio/dataviz2.html)
 
-[OECD Data Government Debt Chart](https://github.com/svp893/Philip-Portfolio/blob/main/dataviz2.md)
-
-https://svp893.github.io/Philip-Portfolio/dataviz2.html
-
 ### Grid of Lines Chart
 
 Flourish offered an oportunity to break apart each country's profile over time to compare and contrast in unique grids. By playing with the palette, I chose to preserve an off white background and sharpen the contrast by introducting black and dark red in the graphs. Since the audience was not specified, the title was left as a statement of the information. I had to play around with the x-axis to present a time line that was not overwhelmed by characters. Overall, I think I presented a simple, yet striking, portrait. The hover feature in the original debt graph carried over here, makes the data more dynamic. I chose to keep the timeline at the very bottom to avoid clutter, however, it does create extra actions to scroll down to see it, an issue that was not there in the first graph. I think being able to filter out only the country's of interest would better serve the audience to find the information they seek.
