@@ -76,7 +76,7 @@ I found this data visualization to be significant as it aimed to explore the cur
 With these reflections as my starting point, I began iterating…
 
 ### Iteration 1
-<img src="https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/complex%20bar%20chart.jpg" width="250" height= "auto"
+![complexbar](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/complex%20bar%20chart.jpg)
 The first sketch explored using a gradient of colors and gray to de-emphasize the data of people who are not worried. I kept all the categories and original bar chart format. I kept this wireframe undetailed as I recognized I would need to reduce the number of variables shown. 
 
 ### Iteration 2
