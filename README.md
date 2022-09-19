@@ -91,6 +91,9 @@ I shifted to a pie chart, creating a three color visual to see if the new format
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG" width="300" height="auto" />
 Reducing the categories to two allowed me to get right to the point of the data. I still was not satisfied with the title but waited for feedback to adjust. 
 
+TEST
+![2 color pie](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/2%20color%20pie.JPG)
+
 ### Bonus Iteration
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/People%20graph.JPG" width="300" height="auto" />
 I added in this wireframe as I think the title of the article would have been better supported with a data visualization of model people representing the proportions seeing as the title is: "Survey: 1 in 5 Americans Fear Getting Monkeypox but Many Know Little About It". 
