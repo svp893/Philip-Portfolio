@@ -62,6 +62,12 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 
 I selected the 
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/11219251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+![complex bar chart](https://github.com/svp893/Philip-Portfolio/blob/main/images/complex%20bar%20chart.jpg)
+
+![simplified bar chart](https://github.com/svp893/Philip-Portfolio/blob/main/images/Simplified%20bar%20chart.JPG)
 
 ![2 color pie](https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG)
+
+![3 color pie](https://github.com/svp893/Philip-Portfolio/blob/main/images/3%20color%20pie.JPG)
+
+![people graph](https://github.com/svp893/Philip-Portfolio/blob/main/images/People%20graph.JPG)
