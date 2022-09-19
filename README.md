@@ -65,7 +65,6 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 I selected this data visualization as I have worked and am planning to continue working in public health. I wanted to explore how the process of designing a visualization may impact the impression the audience has regarding the seriousness of an emergent illness, in this case Monkeypox. In reflection of how COVID-19 information was disseminated from the state to global level, there is much to be gained from exploring effective health visualizations. 
 I found this data visualization to be significant as it aimed to explore the current levels of worry around contracting Monkeypox; however, I felt the visual could be adjusted in several ways:
 
-style=“list-style-type:disc”
 <li>The range of colors made it difficult to quickly ascertain what percentage of people are worried</li> 
 <li>The title of the visualization is only the question asked in the survey, without context provided in the article, it is difficult to know the takeaway from people’s responses and how it connects to the bigger picture</li>
 <li>There is too much text, and in varying font colors, that further hinder the perceptibility</li>
@@ -93,6 +92,8 @@ I shifted to a pie chart, creating a three color visual to see if the new format
 Reducing the categories to two allowed me to get right to the point of the data. I still was not satisfied with the title but waited for feedback to adjust. 
 
 ### Bonus Iteration
+![simple bar chart](file:///C:/Users/svp89/OneDrive/Desktop/Telling%20Stories%20with%20Data/Assignment%204/Simplified%20bar%20chart.JPG)
+
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/People%20graph.JPG" width="200" height="auto" />
 I added in this wireframe as I think the title of the article would have been better supported with a data visualization of model people representing the proportions seeing as the title is: "Survey: 1 in 5 Americans Fear Getting Monkeypox but Many Know Little About It". 
 
