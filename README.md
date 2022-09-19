@@ -107,9 +107,11 @@ The participant could tell that the visualization was showing them a comparison 
 
 Based off of the feedback and the data I had access to via the original site, I was able to create the two color pie chart in FLourish. I decided to make the following adjustments
 
-style=“list-style-type:disc”<li>Changed the title to "Current Concern for Americans as Monkeypox Continues to Spread Amidst Pandemic Landscape"</li>
+style=“list-style-type:disc”
+<li>Changed the title to "Current Concern for Americans as Monkeypox Continues to Spread Amidst Pandemic Landscape"</li>
 <li>Added in a subheader of date data collection and how many sample participants</li>
 <li>I changed the color to a marigold yellow for a cautionary effect</li>
-<li>I made sure to include the source</li>
+<li>I made sure to include the source as participants seemed interested in knowing where the data came from</li>
+<li> My goal was to contextualize the data given the article was focused on sharing information regarding concern and how that tied into people's knowledge of Monkeypox. I would have been interested in creating a visualization correlating concern of Monkeypox given participant location or level of knowledge of Monkeypox. Unforutnately, that data was not available. However, I learned through these exercises that finding health related data sets can be difficult as often privacy and liabilty hinders institutions from sharing complete information. Although the data for this visualization was limited, I felt I was able to practice the best methods to provide clear information, succintly and honestly. 
   
 <div class="flourish-embed flourish-chart" data-src="visualisation/11219251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
