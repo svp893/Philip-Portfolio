@@ -62,6 +62,7 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 
 I selected this data visualization as I have worked and am planning to continue working in public health. I wanted to explore how the process of designing a visualization may impact the impression the audience has regarding the seriousness of an emergent illness, in this case Monkeypox. In reflection of how COVID-19 information was disseminated from the state to global level, there is much to be gained from exploring effective health visualizations. 
 I found this data visualization to be significant as it aimed to explore the current levels of worry around contracting Monkeypox; however, I felt the visual could be adjusted in several ways:
+
 style=“list-style-type:disc”
 <li>The range of colors made it difficult to quickly ascertain what percentage of people are worried</li> 
 <li>The title of the visualization is only the question asked in the survey, without context provided in the article, it is difficult to know the takeaway from people’s responses and how it connects to the bigger picture</li>
@@ -69,7 +70,6 @@ style=“list-style-type:disc”
 <li>Having the date of the survey be referenced in the footer is extremely helpful for reliability as it shows the relevancy </li>
 <li>Providing more information on the size of the sample and demographics would have contributed to its truthfulness by offering transparency of the sampling process</li>
 <li>Would it serve the purpose of the article better to reduce the number of categories and change the style of graph? </li>
-</ul>
 
 With these reflections as my starting point, I began iterating…
 
