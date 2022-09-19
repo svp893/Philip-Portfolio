@@ -71,6 +71,7 @@ style=“list-style-type:disc”
 <li>Providing more information on the size of the sample and demographics would have contributed to its truthfulness by offering transparency of the sampling process</li>
 <li>Would it serve the purpose of the article better to reduce the number of categories and change the style of graph? </li>
 
+
 With these reflections as my starting point, I began iterating…
 
 
