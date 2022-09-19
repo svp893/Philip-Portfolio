@@ -64,5 +64,4 @@ I selected the
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11219251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-![sketch1]([images/IMG_7588.JPG](https://github.com/svp893/Philip-Portfolio/blob/main/images/IMG_7588.JPG)
-## Final Project
+![2 color pie](https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG)
