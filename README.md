@@ -19,7 +19,9 @@ The following graphs use OECD data featuring the Debt-to-GDP ratio across severa
 
 ### Government Debt Chart
 ---
-[OECD Data Government Debt Chart]([url](https://svp893.github.io/Philip-Portfolio/dataviz2.html))
+[OECD Data Government Debt Chart](https://svp893.github.io/Philip-Portfolio/dataviz2.html)
+
+[OECD Data Government Debt Chart](https://github.com/svp893/Philip-Portfolio/blob/main/dataviz2.md)
 
 https://svp893.github.io/Philip-Portfolio/dataviz2.html
 
