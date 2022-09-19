@@ -62,7 +62,7 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 
 I selected the 
 
-![complex bar chart](https://github.com/svp893/Philip-Portfolio/blob/main/images/complex%20bar%20chart.jpg)
+<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/complex%20bar%20chart.jpg" width="200"
 
 ![simplified bar chart](https://github.com/svp893/Philip-Portfolio/blob/main/images/Simplified%20bar%20chart.JPG)
 
