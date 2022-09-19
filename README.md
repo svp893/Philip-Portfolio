@@ -92,8 +92,6 @@ I shifted to a pie chart, creating a three color visual to see if the new format
 Reducing the categories to two allowed me to get right to the point of the data. I still was not satisfied with the title but waited for feedback to adjust. 
 
 ### Bonus Iteration
-![simple bar chart](file:///C:/Users/svp89/OneDrive/Desktop/Telling%20Stories%20with%20Data/Assignment%204/Simplified%20bar%20chart.JPG)
-
 <img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/People%20graph.JPG" width="200" height="auto" />
 I added in this wireframe as I think the title of the article would have been better supported with a data visualization of model people representing the proportions seeing as the title is: "Survey: 1 in 5 Americans Fear Getting Monkeypox but Many Know Little About It". 
 
@@ -110,7 +108,6 @@ The participant could tell that the visualization was showing them a comparison 
 
 Based off of the feedback and the data I had access to via the original site, I was able to create the two color pie chart in FLourish. I decided to make the following adjustments
 
-style=“list-style-type:disc”
 <li>Changed the title to "Current Concern for Americans as Monkeypox Continues to Spread Amidst Pandemic Landscape"</li>
 <li>Added in a subheader of date data collection and how many sample participants</li>
 <li>I changed the color to a marigold yellow for a cautionary effect</li>
