@@ -56,8 +56,11 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 
 ###Original Visualization
 [Annenberg Public Policy Center ASK Survey, July 2022](https://www.annenbergpublicpolicycenter.org/survey-1-in-5-americans-fear-getting-monkeypox-but-many-know-little-about-it/)
+
 ![Annenberg data viz](https://github.com/svp893/Philip-Portfolio/blob/main/images/Annenberg%20Original%20Chart.png.jpg)
+
 I selected the 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11219251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Final Project
