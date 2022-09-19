@@ -67,6 +67,7 @@ I found this data visualization to be significant as it aimed to explore the cur
 
 <li>The range of colors made it difficult to quickly ascertain what percentage of people are worried</li> 
 <li>The title of the visualization is only the question asked in the survey, without context provided in the article, it is difficult to know the takeaway from people’s responses and how it connects to the bigger picture</li>
+<li>The language of the visualization suggests that this graph is intended for the general public who is curious about Monkeypox</li>
 <li>There is too much text, and in varying font colors, that further hinder the perceptibility</li>
 <li>Having the date of the survey be referenced in the footer is extremely helpful for reliability as it shows the relevancy </li>
 <li>The comparison of COVID-19 and Monkeypox is not clearly explained through the title and leaves the audience to infer why there is a comparison</li>
@@ -112,6 +113,7 @@ Based off of the feedback and the data I had access to via the original site, I 
 <li>Added in a subheader of date of data collection and how many sample participants</li>
 <li>I changed the color to a marigold yellow for a cautionary effect</li>
 <li>I made sure to include the source as participants seemed interested in knowing where the data came from</li>
+<li>Participant's 2 reaction to liking the binary of "worried" or "not worried" validated my inclination that simplified data categories would better serve the audiences that viewed this graph. 
 <li> My goal was to contextualize the data given the article was focused on sharing information regarding concern and how that tied into people's knowledge of Monkeypox. I would have been interested in creating a visualization correlating concern of Monkeypox given participant location or level of knowledge of Monkeypox. Unfortunately, that data was not available. I learned through these exercises that finding health related data sets and visualizations needing improvement can sometimes be difficult as often privacy and liabilty hinders institutions from sharing complete information. Although the data for this visualization was limited, I felt I was able to practice the best methods to provide clear information, succintly and honestly. 
   
 <div class="flourish-embed flourish-chart" data-src="visualisation/11219251"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
