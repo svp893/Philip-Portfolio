@@ -60,7 +60,7 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 
 [Annenberg Public Policy Center ASK Survey, July 2022](https://www.annenbergpublicpolicycenter.org/survey-1-in-5-americans-fear-getting-monkeypox-but-many-know-little-about-it/)
 
-![Annenberg data viz](https://github.com/svp893/Philip-Portfolio/blob/main/images/Annenberg%20Original%20Chart.png.jpg)
+![Annenberg data viz](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Annenberg%20Original%20Chart.png.jpg)
 
 I selected this data visualization as I have worked and am planning to continue working in public health. I wanted to explore how the process of designing a visualization may impact the impression the audience has regarding the seriousness of an emergent illness, in this case Monkeypox. In reflection of how COVID-19 information was disseminated from the state to global level, there is much to be gained from exploring effective health visualizations. 
 I found this data visualization to be significant as it aimed to explore the current levels of worry around contracting Monkeypox; however, I felt the visual could be adjusted in several ways:
