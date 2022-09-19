@@ -109,8 +109,8 @@ The participant could tell that the visualization was showing them a comparison 
 
 Based off of the feedback and the data I had access to via the original site, I was able to create the two color pie chart in FLourish. I decided to make the following adjustments:
 
-<li>Changed the title to "Current Concern for Americans as Monkeypox Continues to Spread Amidst Pandemic Landscape"</li>
-<li>Added in a subheader of date of data collection and how many sample participants</li>
+<li>Changed the title to "American's Concern for Monkeypox compared to COVID-19, as of July 2022"</li>
+<li>Added in a subheader of how many sample participants</li>
 <li>I changed the color to a marigold yellow for a cautionary effect</li>
 <li>I made sure to include the source as participants seemed interested in knowing where the data came from</li>
 <li>Participant's 2 reaction to liking the binary of "worried" or "not worried" validated my inclination that simplified data categories would better serve the audiences that viewed this graph. 
