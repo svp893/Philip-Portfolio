@@ -10,6 +10,8 @@ Hi! My name is Sophia Philip (she/her/hers), I am getting my MS in Health Care P
 # What I hope to learn
 I hope to learn how to better present my data so that audience members can more easily find the information they need. Having a repertoire of visual tools to better communicate is of great importance to uphold equity and access. 
 
+---
+
 # Portfolio Content
 ## Data Visualization #1
 
@@ -18,7 +20,7 @@ I hope to learn how to better present my data so that audience members can more 
 The following graphs use OECD data featuring the Debt-to-GDP ratio across several countries and decades. By sifting through this data on platforms, such as Flourish and Tableau, we begin to see the stories intertwined in the data.  
 
 ### Government Debt Chart
----
+
 [OECD Data Government Debt Chart](https://svp893.github.io/Philip-Portfolio/dataviz2.html)
 
 ### Grid of Lines Chart
