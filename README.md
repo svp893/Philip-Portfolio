@@ -69,7 +69,7 @@ I selected the
 ![2 color pie](https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG)
 
 
-<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG" width="200" height="250" />
+<img src="https://github.com/svp893/Philip-Portfolio/blob/main/images/2%20color%20pie.JPG" width="200" height="auto" />
 
 
 
