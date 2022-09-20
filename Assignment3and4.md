@@ -51,7 +51,7 @@ The participant could tell that the visualization was showing them a comparison 
 
 ### Final Revised Data Visualization
 
-Based off of the feedback and the data I had access to via the original site, I was able to create the two color pie chart in FLourish. I decided to make the following adjustments:
+Based off of the feedback and the data I had access to via the original site, I was able to create the two color pie chart in Flourish. I decided to make the following adjustments:
 
 <li>Changed the title to "American's Concern for Monkeypox compared to COVID-19, as of July 2022"</li>
 <li>Added in a subheader of how many sample participants</li>
