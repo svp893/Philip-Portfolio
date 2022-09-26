@@ -3,9 +3,19 @@
 # Final Project
 ## Part 1
 ### Project Summary
-dfd
+The final project will be reporting on the current landscape of maternal health in the United States and the suprisingly high rates of maternal and infant mortality across different identity demographics. The goal is to further humanize the staggering number of unnecessary maternal and infant deaths as well as solutions that are currently being or can be implemented to reduce those rates.
+
 ### Project Structure
 Read ch. 8
+Set up: Maternal and infant deaths have remained at high levels.
+Conflict: 
+Despite US being a first world country with highest health care costs, preventable maternal and infant deaths persist.
+The persistance is due to inaccessibility of care, continued disenfranchisement and neglect of subset patient populations, across race and nationality.
+Resolution:
+Policy to increase maternal health coverage
+Investment in expanding racial representation in maternal health fields
+Revising maternal health education in medical schools
+
 ### Initial Project Sketches
 sketch
 ### Data Sources
