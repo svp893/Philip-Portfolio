@@ -55,3 +55,7 @@ For the third visualization I chose a horizantel bar chart to compare the debt a
 ---
 
 ## [Assignment #3 and #4](https://svp893.github.io/Philip-Portfolio/Assignment3and4.html)
+
+---
+
+## [Final Project](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
