@@ -23,9 +23,12 @@ A couple of paragraphs that document your data source(s), and an explanation of 
 A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 I am using a combination of two data sources:
-<li> [The Commonwealth Fund</li>](https://www.commonwealthfund.org/publications/issue-briefs/2022/apr/health-and-health-care-women-reproductive-age)
+<li> [The Commonwealth Fund](https://www.commonwealthfund.org/publications/issue-briefs/2022/apr/health-and-health-care-women-reproductive-age) </li>
 The Commonwealth Fund offers comparative data on reproductive health across several nations. These data sets explore both physical health, as well as the interplay of socio-economics, care behavior, mental health and access ot care. These data sets offer richer detail to help build out a nuanced and ecosystemic story of maternal mortality rates in the United States. From this data, I can also begin to explore solutions that are found in higher performing countries to propose in my final project.  
 <li>Center for Disease Control and Prevention</li>
+[Pregnancy Mortality Surveillance System](https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Freproductivehealth%2Fmaternalinfanthealth%2Fpregnancy-mortality-surveillance-system.htm)
+[Sudden Unexptected Infant Deaths](https://www.cdc.gov/sids/data.htm)
+[Pregnancy Mortality Surveillance System](https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Freproductivehealth%2Fmaternalinfanthealth%2Fpregnancy-mortality-surveillance-system.htm)
 
 ### Method and Medium
 In a few paragraphs, you should document how you plan on completing your final project. 
