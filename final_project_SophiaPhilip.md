@@ -26,7 +26,7 @@ The final project will be reporting on the current landscape of maternal health 
 
 ### Initial Project Sketches
 
-[embed][file:///C:/Users/svp89/Downloads/Final%20Project%20Sketch%20(1).pdf)](https://github.com/svp893/Philip-Portfolio/blob/main/images/Final%20Project%20Sketch.pdf[/embed]
+[embed]https://github.com/svp893/Philip-Portfolio/blob/main/images/Final%20Project%20Sketch.pdf[/embed]
 
 ### Data Sources
 The following data sets will be used for my final project:
