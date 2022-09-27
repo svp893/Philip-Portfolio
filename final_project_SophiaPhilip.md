@@ -26,7 +26,7 @@ The final project will be reporting on the current landscape of maternal health 
 
 ### Initial Project Sketches
 
-[Initial Project Sketch](https://github.com/svp893/Philip-Portfolio/blob/main/images/Final%20Project%20Sketch.pdf)
+[Initial Project Sketch](file:///C:/Users/svp89/Downloads/Final%20Project%20Sketch%20(1).pdf)
 
 ### Data Sources
 The following data sets will be used for my final project:
@@ -55,6 +55,5 @@ To complete this project I will do the following:
 <li> Revise final project given critique </li>
 <li> Prepare short presentation highlighting key data visualizations </li>
 <li> Finalize final project and presentation </li>
-
-
+<br>
  [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
