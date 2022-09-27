@@ -1,11 +1,9 @@
 ## [Portfolio](https://svp893.github.io/Philip-Portfolio/)
 
-# Final Project
-<br>
+# Final Project<br>
 ## Part 1
 ### Project Summary
-The final project will be reporting on the current landscape of maternal health in the United States and the suprisingly high rates of maternal and infant mortality across different identity demographics. The goal is to further humanize the staggering number of unnecessary maternal and infant deaths as well as solutions that are currently being or can be implemented to reduce those rates.
-<br>
+The final project will be reporting on the current landscape of maternal health in the United States and the suprisingly high rates of maternal and infant mortality across different identity demographics. The goal is to further humanize the staggering number of unnecessary maternal and infant deaths as well as solutions that are currently being or can be implemented to reduce those rates.<br>
 ### Project Structure
 #### Set up: 
 <li>Maternal and infant deaths have remained at high levels in the United States.</li>
@@ -39,11 +37,9 @@ The Commonwealth Fund offers comparative data on reproductive health across seve
 Data sets specifically on pregnancy mortality rates from the state to national level. Offers information on levels and causes of mortality rates.<br>
 [Sudden Unexptected Infant Deaths](https://www.cdc.gov/sids/data.htm)
 A subdivision of the CDC's Division of Reproductive Health that offers data on Sudden Unexpected Infant Deaths (SUID) by cause, trends in SUID rates by cause, SUID by race/ethnicity, and data resources for SUID and sudden infant death syndrome.<br>
-[Pregnancy Mortality Surveillance System](https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Freproductivehealth%2Fmaternalinfanthealth%2Fpregnancy-mortality-surveillance-system.htm)
-<br>
+[Pregnancy Mortality Surveillance System](https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Freproductivehealth%2Fmaternalinfanthealth%2Fpregnancy-mortality-surveillance-system.htm)<br>
 ### Method and Medium
-To complete this project I will do the following:
-<br>
+To complete this project I will do the following:<br>
 <li> Revise final project plan given in class critique offered on 9.27.22 </li>
 <li>Flush out the project structure and identify which data sets and what types of imagery are needed to support the key points for each section in the revised plan. Begin writing out text for story </li>
 <li> After class on 9.27.22, begin building out the basic structure of the site </li>
