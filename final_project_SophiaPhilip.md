@@ -25,7 +25,8 @@ The final project will be reporting on the current landscape of maternal health 
 <li> Provide alternative ideas, determine if data visualizations are available. For example, investment in expanding racial representation in maternal health fields or revising maternal health education in medical schools </li>
 
 ### Initial Project Sketches
-sketch
+
+![Initial Project Sketch](https://github.com/svp893/Philip-Portfolio/blob/main/images/Final%20Project%20Sketch.pdf)
 
 ### Data Sources
 The following data sets will be used for my final project:
