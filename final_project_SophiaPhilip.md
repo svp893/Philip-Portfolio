@@ -55,5 +55,7 @@ To complete this project I will do the following:
 <li> Revise final project given critique </li>
 <li> Prepare short presentation highlighting key data visualizations </li>
 <li> Finalize final project and presentation </li>
+- hi
+
 
  [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
