@@ -46,7 +46,7 @@ To complete this project I will do the following:
 <li> Revise final project plan given in class critique offered on 9.27.22 </li>
 <li>Flush out the project structure and identify which data sets and what types of imagery are needed to support the key points for each section in the revised plan. Begin writing out text for story </li>
 <li> After class on 9.27.22, begin building out the basic structure of the site </li>
-<li> Begin collecting relevant images and store in image repository on GitHub </li>
+<li> Begin collecting relevant images via Unsplash and store in image repository on GitHub </li>
 <li> Evaluate if Flourish or Tableau offers better capability given the type of data </li>
 <li> Import and build data visualizations for each section. </li>
 <li> Review initial research for Part 1 and pull out key takeaways from data visualizations to build narrative. </li>
