@@ -15,7 +15,7 @@ The final project will be reporting on the current landscape of maternal health 
 
 #### Conflict: 
 <li> Despite US being a first world country with highest health care costs, preventable maternal and infant deaths persist. </li>
-<li> Present data visualization that illustrate influential factors, i.e. socio-economics, as well other extraneous factors further exacerbate these patterns
+<li> Present data visualization that illustrate influential factors, i.e. socio-economics, as well other extraneous factors further exacerbate these patterns </li>
 <li> The persistance is due to inaccessibility of care, continued disenfranchisement and neglect of subset patient populations, across race and nationality. </li>
 <li> Provide data visualizations that reveal disparities across particular maternal populations, such as along race or nationality </li>
 
