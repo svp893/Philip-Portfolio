@@ -24,8 +24,6 @@ The final project will be reporting on the current landscape of maternal health 
 <li> Present current policy to increase maternal health coverage, show impact in similiar countries of increasing coverage on maternal health </li>
 <li> Provide alternative ideas, determine if data visualizations are available. For example, investment in expanding racial representation in maternal health fields or revising maternal health education in medical schools </li>
 
-## HI
-
 ### Initial Project Sketches
 
 ![Initial Project Sketch](https://github.com/svp893/Philip-Portfolio/blob/main/images/Final%20Project%20Sketch.pdf)
@@ -57,7 +55,6 @@ To complete this project I will do the following:
 <li> Revise final project given critique </li>
 <li> Prepare short presentation highlighting key data visualizations </li>
 <li> Finalize final project and presentation </li>
-- hi
 
 
  [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
