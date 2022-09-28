@@ -51,18 +51,9 @@ offers comparative data on reproductive health across several nations. These dat
 ### Method and Medium
 To complete this project I will do the following:
 
-<li> Revise final project plan given in class critique offered on 9.27.22 </li>
-<li>Flush out the project structure and identify which data sets and what types of imagery are needed to support the key points for each section in the revised plan. Begin writing out text for story </li>
-<li> After class on 9.27.22, begin building out the basic structure of the site </li>
-<li> Begin collecting relevant images via Unsplash and store in image repository on GitHub </li>
-<li> Evaluate if Flourish or Tableau offers better capability given the type of data </li>
-<li> Import and build data visualizations for each section. </li>
-<li> Review initial research for Part 1 and pull out key takeaways from data visualizations to build narrative. </li>
-<li> Revise text and refine use of images and visualizations to build strong story </li>
-<li> Organize critique through class time and with peers outside of class </li>
-<li> Revise final project given critique </li>
-<li> Prepare short presentation highlighting key data visualizations </li>
-<li> Finalize final project and presentation </li>
+<li> I will be using Flourish and Tableau to build my visualizations </li>
+<li> I will use Unsplash for stock imagery</li>
+<li> I will use Shorthand to build my final project site</li>
 <br>
 ### Post-Critique Revisions
 After receiving feedback on my original plan. I will be reducing the amount of data visualizations I had planned to build, as shown in the Figma mock up. The group's critique was out of concern for limited time and ensuring that I was concise and did not overwhelm my site with data visualizations. I was planning to go into detail on spending behavior of mothers but will instead just focus on a more high level presentation of data. For the action items, I need to identify more clear next steps, such as opportunities to train to be a doula or ways to support increase maternal health spending through voting or advocacy. 
