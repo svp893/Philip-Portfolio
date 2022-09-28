@@ -46,9 +46,6 @@ offers comparative data on reproductive health across several nations. These dat
 [Pregnancy Mortality Surveillance System](https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Freproductivehealth%2Fmaternalinfanthealth%2Fpregnancy-mortality-surveillance-system.htm)
 Data sets specifically on pregnancy mortality rates from the state to national level. Offers information on levels and causes of mortality rates.
 
-[Sudden Unexptected Infant Deaths](https://www.cdc.gov/sids/data.htm)
-A subdivision of the CDC's Division of Reproductive Health that offers data on Sudden Unexpected Infant Deaths (SUID) by cause, trends in SUID rates by cause, SUID by race/ethnicity, and data resources for SUID and sudden infant death syndrome.
-
 ### Method and Medium
 To complete this project I will do the following:
 
@@ -65,4 +62,7 @@ To complete this project I will do the following:
 <li> Prepare short presentation highlighting key data visualizations </li>
 <li> Finalize final project and presentation </li>
 <br>
+### Post-Critique Revisions
+After receiving feedback on my original plan. I will be reducing the amount of data visualizations I had planned to build, as shown in the Figma mock up. The group's critique was out of concern for limited time and ensuring that I was concise and did not overwhelm my site with data visualizations. I was planning to go into detail on spending behavior of mothers but will instead just focus on a more high level presentation of data. For the action items, I need to identify more clear next steps, such as opportunities to train to be a doula or ways to support increase maternal health spending through voting or advocacy. 
+
  [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
