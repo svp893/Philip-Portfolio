@@ -31,12 +31,12 @@ The final project will be reporting on the current landscape of maternal health 
 
 #### Initial Data Visualizations
 
-![Death Rate](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/High%20rate%20of%20avoidable%20deaths.jpg)
+<img src="https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/High%20rate%20of%20avoidable%20deaths.jpg" width="200" height='auto" />
 ![High rate performance](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/High%20rating%20of%20performance.jpg)
 ![rural v urban](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Rural%20versus%20Urban.jpg)
 ![US health spending](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/US%20Health%20Spending.jpg)
 ![Racial demo](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Cause%20and%20racial%20demographics.jpg)
-![Cartoon Percentage](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Annenberg%20Original%20Chart.png.jpg)
+![Cartoon Percentage](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Cartoon%20percentage.jpg)
 
 ### Data Sources
 The following data sets will be used for my final project:
