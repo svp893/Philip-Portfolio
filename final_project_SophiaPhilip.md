@@ -27,7 +27,7 @@ The final project will be reporting on the current landscape of maternal health 
 ### Initial Project Sketches
 
 #### Figma Mock Up
-![Initial Project Sketch](https://github.com/svp893/Philip-Portfolio/blob/main/images/Final%20Project%20Sketch%20(2)-page-001.jpg)
+![Initial Project Sketch](https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Final%20Project%20Sketch%20(2)-page-001.jpg)
 
 #### Initial Data Visualizations
 
