@@ -51,9 +51,10 @@ offers comparative data on reproductive health across several nations. These dat
 ### Method and Medium
 To complete this project I will do the following:
 
-<li> I will be using Flourish and Tableau to build my visualizations </li>
-<li> I will use Unsplash for stock imagery</li>
-<li> I will use Shorthand to build my final project site</li>
+<li> I will be using Flourish and Tableau to build my visualizations. Given the data I have, I will test out my initial data visualizations and adjust accordingly to ensure I tell the strongest story in the clearest manner </li>
+<li> I will initially draft out the text for my final project either in Microsoft Word or Github to then finalize in the platform the final projected will be presented on </li>
+<li> I will use Unsplash for stock imagery </li>
+<li> I will use Shorthand to build my final project site </li>
 <br>
 ### Post-Critique Revisions
 After receiving feedback on my original plan. I will be reducing the amount of data visualizations I had planned to build, as shown in the Figma mock up. The group's critique was out of concern for limited time and ensuring that I was concise and did not overwhelm my site with data visualizations. I was planning to go into detail on spending behavior of mothers but will instead just focus on a more high level presentation of data. For the action items, I need to identify more clear next steps, such as opportunities to train to be a doula or ways to support increase maternal health spending through voting or advocacy. 
