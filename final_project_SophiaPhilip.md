@@ -43,8 +43,7 @@ The following data sets will be used for my final project:
 [The Commonwealth Fund](https://www.commonwealthfund.org/publications/issue-briefs/2022/apr/health-and-health-care-women-reproductive-age)
 offers comparative data on reproductive health across several nations. These data sets explore both physical health, as well as the interplay of socio-economics, care behavior, mental health and access ot care. These data sets offer richer detail to help build out a nuanced and ecosystemic story of maternal mortality rates in the United States. From this data, I can also begin to explore solutions that are found in higher performing countries to propose in my final project.
 
-[Pregnancy Mortality Surveillance System](https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Freproductivehealth%2Fmaternalinfanthealth%2Fpregnancy-mortality-surveillance-system.htm)
-Data sets specifically on pregnancy mortality rates from the state to national level. Offers information on levels and causes of mortality rates.
+[Pregnancy Mortality Surveillance System](https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Freproductivehealth%2Fmaternalinfanthealth%2Fpregnancy-mortality-surveillance-system.htm); data sets specifically on pregnancy mortality rates from the state to national level. Offers information on levels and causes of mortality rates.
 
 ### Method and Medium
 To complete this project I will do the following:
