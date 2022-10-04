@@ -73,13 +73,15 @@ Finding representative interview candidates required contacting those in proximi
 
 #### Interview Script
 ***Introductory Comments***
-Brief Introduction: 
+<br> 
 "Hello, my name is Sophia Philip, I am a graduate student at Carnegie Mellon University. Thank you for agreeing to participate in my research today for my class "Telling Stories with Data". You will be asked to review a website I have created. I will ask you a few questions to which you can reply to all, some or none. My goal is to get feedback on a new page I am designing. I'm talking to people to see what makes sense and what's confusing on the website. Your identity will be kept anonymous and this feedback session should take less than 20 minutes of your time. Do you have any questions?
 
 ***Questions about Interviewee***
+<br>
 "What's your job/what do you do? How old are you? Where are you from?"
 
 ***Main Section***
+<br>
 "I am going to send you a link to a website. I'd like you to take a few minutes to scroll through. Tell me when you are done scrolling through. Once you are done, I want you to tell me what you think this site is for, in your own words?"
 
 "Who do you think the intended audience is for the site?"
@@ -93,6 +95,7 @@ Brief Introduction:
 As the participant works through the page, the interviewer will ask follow-up questions as necessary and respond to any questions with further discussion.
 
 ***Wrap-up***
+<br>
 “Thank you so much for your time. Do you have any questions for me?”
 
 
