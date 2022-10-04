@@ -64,16 +64,37 @@ After receiving feedback on my original plan. I will be reducing the amount of d
 
 [Wireframe/Storyboard](https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/index.html)
 
-<script src="https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/embed.js"></script>
-
 ### User Research Protocol
 #### Target Audience
 The intended audience I hope to reach is young to mid aged adults. My intention is to raise awareness to the unnecessary loss of life amongst communities that are either of child bearing age or know someone who is, thus young to middle aged. Regardless of gender, everyone is affected by or knows someone who is planning to get pregnant; that is why the site shoudl be built to be engaging to all genders. Centering gender inclusivity is also essential to inhibit biases and barriers to care access. Health data is often difficult to understand or only accessible via health care news platforms or journals. By creating a site that is made to be accessible visually as well as its language to young and mid aged adults, I intend to make the issue understood and the means to combat the issue available and ready for action. 
 
 #### Identifying Representative Interview Candidates
-Finding
+Finding representative interview candidates required contacting those in proximity as well as others farther away. I identified three candidates, two of whom live nearby and another that I had to interact with via Zoom because they live far away. I tried to have each participant be from a different age group, i.e. 20s-70s, as well as different career types and from different areas.  
 
 #### Interview Script
+***Introductory Comments***
+Brief Introduction: 
+"Hello, my name is Sophia Philip, I am a graduate student at Carnegie Mellon University. Thank you for agreeing to participate in my research today for my class "Telling Stories with Data". You will be asked to review a website I have created. I will ask you a few questions to which you can reply to all, some or none. My goal is to get feedback on a new page I am designing. I'm talking to people to see what makes sense and what's confusing on the website. Your identity will be kept anonymous and this feedback session should take less than 20 minutes of your time. Do you have any questions?
+
+***Questions about Interviewee***
+"What's your job/what do you do? How old are you? Where are you from?"
+
+***Main Section***
+"I am going to send you a link to a website. I'd like you to take a few minutes to scroll through. Tell me when you are done scrolling through. Once you are done, I want you to tell me what you think this site is for, in your own words?"
+
+"Who do you think the intended audience is for the site?"
+
+"Can you please tell me which parts of the site helped you figure out what this site was about. How did these parts make it easier to understand the goal of the site?"
+
+"Which parts of the site were confusing? Why? What would you have done differently?"
+
+"What other questions do you have about the site?"
+
+As the participant works through the page, the interviewer will ask follow-up questions as necessary and respond to any questions with further discussion.
+
+***Wrap-up***
+“Thank you so much for your time. Do you have any questions for me?”
+
 
 #### Findings from Interview 
 
