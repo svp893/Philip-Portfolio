@@ -103,6 +103,6 @@ As the participant works through the page, the interviewer will ask follow-up qu
 
 #### Changes to Visuals based on Interviews 
 
+ [Part III](https://github.com/svp893/Philip-Portfolio/blob/main/PartIII.html)
  
- 
- [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
+ [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/PartIII.html)
