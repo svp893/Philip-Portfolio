@@ -59,4 +59,26 @@ To complete this project I will do the following:
 ### Post-Critique Revisions
 After receiving feedback on my original plan. I will be reducing the amount of data visualizations I had planned to build, as shown in the Figma mock up. The group's critique was out of concern for limited time and ensuring that I was concise and did not overwhelm my site with data visualizations. I was planning to go into detail on spending behavior of mothers but will instead just focus on a more high level presentation of data. For the action items, I need to identify more clear next steps, such as opportunities to train to be a doula or ways to support increase maternal health spending through voting or advocacy. 
 
+
+## Part 2
+
+[Wireframe/Storyboard](https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/index.html)
+
+<script src="https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/embed.js"></script>
+
+### User Research Protocol
+#### Target Audience
+The intended audience I hope to reach is young to mid aged adults. My intention is to raise awareness to the unnecessary loss of life amongst communities that are either of child bearing age or know someone who is, thus young to middle aged. Regardless of gender, everyone is affected by or knows someone who is planning to get pregnant; that is why the site shoudl be built to be engaging to all genders. Centering gender inclusivity is also essential to inhibit biases and barriers to care access. Health data is often difficult to understand or only accessible via health care news platforms or journals. By creating a site that is made to be accessible visually as well as its language to young and mid aged adults, I intend to make the issue understood and the means to combat the issue available and ready for action. 
+
+#### Identifying Representative Interview Candidates
+Finding
+
+#### Interview Script
+
+#### Findings from Interview 
+
+#### Changes to Visuals based on Interviews 
+
+ 
+ 
  [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
