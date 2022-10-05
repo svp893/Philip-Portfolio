@@ -108,8 +108,30 @@ I interviewed three participants using the interview script. The following secti
 ##### Participant 1 
 65 year old, white male, originally from the the Northeast of the United States, retired
 <br>
-After reviewing the site I asked them what they understood the goal of the site to be, this is their reply: "Discussing maternal mortality rates, to identify there is a problem, but I can’t tell if it identifies a solution." They felt the audience was someone who had the basic knowledge in the field of maternal health and has a concern for the topic. Overall, they had a hard time dealing with the format. This was an interesting contrast, as later on in the interview, they said the website was well laid out. With further prompting I learned that they felt the information given to them through the graphs could have been in simpler language and clearer context. They liked that the website could be paced the way they preferred and not "auto-driven. I could stop it when I needed and slow it down." They emphasized that the charts needed to be "stupid simple". The use of images and constant repition of "maternal mortality" extablished a clear theme of the seriousness of the siutation for mother and child alike.
+After reviewing the site I asked them what they understood the goal of the site to be, this is their reply: "Discussing maternal mortality rates, to identify there is a problem, but I can’t tell if it identifies a solution." They felt the audience was someone who had the basic knowledge in the field of maternal health and has a concern for the topic. Overall, they had a hard time dealing with the format. This was an interesting contrast, as later on in the interview, they said the website was well laid out. With further prompting I learned that they felt the information given to them through the graphs could have been in simpler language and clearer context. They liked that the website could be paced the way they preferred and not "auto-driven. I could stop it when I needed and slow it down." They emphasized that the charts needed to be "stupid simple". The use of images and constant repition of "maternal mortality" extablished a clear theme of the seriousness of the siutation for mother and child alike. 
 
+##### Participant 2
+64 year old, white female, originally from the Midwest of the United States, freelance
+<br>
+Before I could start my script, the participant immediately jumped into giving feedback on the site. They needed clarification on the difference between maternal mortality as well as pregnancy mortality-what are they and are they the same? They did not understand what "per 100,000 live births" meant and asked for different units to be used. They were impressed by the data visualization on the increasing trend of maternal mortality. I had tested out using gender neutral language, such as 
+"parents" instead of "mothers", and the participant was confused and thought it was wrong. This bring up a great discussion on framing gender neutral terms in a way that ensures all audiences understand why "parent" is being used instead of the gendered "mother". They noticed that the language throughout the site switched from "livelihood" to "deaths" and recommended picking one or the other to ensure clarity. The pie chart on race and ethnicity greatly impressed them and they liked the colors. After talking about the pie chart, they said aloud "I wonder why" race and ethnicity were so significant, which makes me think I should discuss this more in my next iteration. They asked for clarification on medical terms in the bar chart featuring causes of maternal mortality. After sharing this feedback
+
+GOAL: two fold, one is awareness of maternal mortality and how you can do something about it
+Audience: I have no idea
+
+Our country is so messed up what more could go wrong
+I don’t know what OECD data is really saying [relative to other countries]
+
+Are there any advocacy places that pregnant mothers could go to 
+Are there any hospitals systems that have community outreach who don’t have insurance
+
+I love the photos
+Graphs are easy to read
+Tehre is a celeb involved
+The pie chart is good
+It’s very interesting
+
+I don’t know what’s happening to increased doula training-change photo
 
 
 
