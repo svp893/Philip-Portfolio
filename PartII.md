@@ -64,7 +64,9 @@ Before I could start my script, the participant immediately jumped into giving f
 <br>
 The participant said the goal of the site is to show how US maternal mortality rates are drastically higher than in other parts of the world. The noted that there are large racial and ethnic disparities that impact those rates. In their opinion the site is for doctors, caregivers, doulas and expecting parents. We proceeded to have a discussion about adding in a disclosure that gender inclusive language will be used, e.g. "parent" instead of "mother", throughout the site, which responds to the questions Participant 2 had regarding the language around parent versus mother. Recognizing that this is a wireframe, they expressed excitement to learn more about Serena Williams and what the CDC is currently doing ot reduce the mortality rates. In regards to aesthetics, they recommended making the sub title larger, increasing the buble size for the US in the first visualization, adjusting the trend stacked area chart to a line graph with comparison to other countries and adding in more photos for the PMSS section. They reminded me that gradients are not appropriate for different categories so they suggested I use the palette of the pie chart. Similar to the other participants, they suggested simplifying the chart titles. They made other suggestions regarding playing around with photo placement relative to visuals which I will test out. They were excited by the action steps and liked the buttons. 
 <br>
--------------------------------------
+
+------------------------------------------
+
 #### Changes to Visuals based on Interviews 
 
 I was very lucky to have such enthusiasic participants and had a lot of feedback to work with. Unfortunately, I was not able to get feedback during class as we ran out of time. However, I noted the feedback we gave to my peers and the following list captures the changes I plan to make given both the user feedback I conducted as well as that given to others during class. 
