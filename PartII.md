@@ -1,3 +1,4 @@
+### [Portfolio](https://svp893.github.io/Philip-Portfolio/)
 
 ## Part II
 
@@ -58,6 +59,7 @@ After reviewing the site I asked them what they understood the goal of the site 
 <br>
 Before I could start my script, the participant immediately jumped into giving feedback on the site. They needed clarification on the difference between maternal mortality as well as pregnancy mortality-what are they and are they the same? They did not understand what "per 100,000 live births" meant and asked for different units to be used. The OECD data on US's standing relative to other countries was also not clear to the participant. They were impressed by the data visualization on the increasing trend of maternal mortality. I had tested out using gender neutral language, such as "parents" instead of "mothers", and the participant was confused and thought it was wrong. This brings up a great discussion on framing gender neutral terms in a way that ensures all audiences understand why "parent" is being used instead of the gendered "mother". They noticed that the language throughout the site switched from "livelihood" to "deaths" and recommended picking one or the other to ensure clarity. The pie chart on race and ethnicity greatly impressed them and they liked the colors. After talking about the pie chart, they said aloud "I wonder why" race and ethnicity were so significant, which makes me think I should discuss this more in my next iteration. They asked for clarification on medical terms in the bar chart featuring causes of maternal mortality. After sharing this feedback, I was able to ask the intial questions regarding the goal and audience, they replied the goal is "two fold, one is awareness of maternal mortality and, two, is how you can do something about it"; however, they had no idea who the audience is for the site. When asked what they liked about the site they shared that they loved the photos, except the doula training photo, most graphs are easy to read, they like that a celebrity is mentioned, the pie chart is great and, overall, and the site is interesting. They wanted to know about more options in the action stpes, such as advocacy places that pregnant mothers could go to or hospitals systems that have community outreach who don’t have insurance. These suggestions helped me see that I was able to inspire my audience but had more edits to make.  
 <br>
+
 ##### Participant 3
 23 year old, white male, originally from the Midwest of the United States, graduate student
 <br>
@@ -76,3 +78,10 @@ I was very lucky to have such enthusiasic participants and had a lot of feedback
 <li> Develop a statement regarding the adjustment to gendered language to gender inclusive language </li>
 <li> Add in more photos to ensure images are not too static </li>
 <li> I added in a navigation menu following the class critique, I will continue to adjust the language </li>
+
+
+[Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
+<br>
+[Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
+ <br>
+[Return to Portfolio](https://svp893.github.io/Philip-Portfolio.html)
