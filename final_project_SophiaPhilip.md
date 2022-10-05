@@ -65,6 +65,8 @@ After receiving feedback on my original plan. I will be reducing the amount of d
 
 [Wireframe/Storyboard](https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/index.html)
 
+<script src="https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/embed.js"></script>
+
 ### User Research Protocol
 #### Target Audience
 The intended audience I hope to reach is young to mid aged adults. My intention is to raise awareness to the unnecessary loss of life amongst communities that are either of child bearing age or know someone who is, thus young to middle aged. Regardless of gender, everyone is affected by or knows someone who is planning to get pregnant; that is why the site shoudl be built to be engaging to all genders. Centering gender inclusivity is also essential to inhibit biases and barriers to care access. Health data is often difficult to understand or only accessible via health care news platforms or journals. By creating a site that is made to be accessible visually as well as its language to young and mid aged adults, I intend to make the issue understood and the means to combat the issue available and ready for action. 
