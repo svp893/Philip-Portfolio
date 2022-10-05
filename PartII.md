@@ -71,14 +71,15 @@ I was very lucky to have such enthusiasic participants and had a lot of feedback
 <br>
 <li> Adjust palette of charts to reflect the pie chart</li>
 <li> Remove gradient from charts </li>
-<li> Adjust language of charts to be more accessible </li>
+<li> Adjust language of charts to be more accessible. This may resolve the discrepancy in the perception of user type for this site </li>
 <li> Find alternative language to maternal and pregnancy-related mortality </li>
 <li> Be explicit around what actions are being taken to address the mortality rates </li>
 <li> Develop a statement regarding the adjustment to gendered language to gender inclusive language </li>
-<li> Add in more photos to ensure images are not too static </li>
+<li> Add in more photos to ensure images are not too static and take advantage of scrolling features of Shorthand </li>
 <li> I added in a navigation menu following the class critique, I will continue to adjust the language </li>
 <li> The line graph showing where the US stands needs to either have larger sized dots or I should simplify the groups to continents to make it easier to see </li>
 <li> I am going to add more countries to the stacked area graph to make it easier to see comparisons of trend increase and will adjust to a line graph. </li>
+<li> Flush out action items and integrate suggestions from Participant 2, such as pregnant parent support for those uninsured </li>
 <br>
 [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
 <br>
