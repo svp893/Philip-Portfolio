@@ -59,6 +59,7 @@ To complete this project I will do the following:
 ### Post-Critique Revisions
 After receiving feedback on my original plan. I will be reducing the amount of data visualizations I had planned to build, as shown in the Figma mock up. The group's critique was out of concern for limited time and ensuring that I was concise and did not overwhelm my site with data visualizations. I was planning to go into detail on spending behavior of mothers but will instead just focus on a more high level presentation of data. For the action items, I need to identify more clear next steps, such as opportunities to train to be a doula or ways to support increase maternal health spending through voting or advocacy. 
 
+----------------------------------------------------------------
 
 ## Part 2
 
@@ -98,8 +99,19 @@ As the participant works through the page, the interviewer will ask follow-up qu
 <br>
 “Thank you so much for your time. Do you have any questions for me?”
 
+-------------------------------------------
 
 #### Findings from Interview 
+
+I interviewed three participants using the interview script. The following section presents their background information and feedback. Identifiers of the participants have been adjusted to be general enough to preserve anonymity.
+
+##### Participant 1 
+65 year old, white male, originally from the the Northeast of the United States, retired
+<br>
+After reviewing the site I asked them what they understood the goal of the site to be, this is their reply: "Discussing maternal mortality rates, to identify there is a problem, but I can’t tell if it identifies a solution." They felt the audience was someone who had the basic knowledge in the field of maternal health and has a concern for the topic. Overall, they had a hard time dealing with the format. This was an interesting contrast, as later on in the interview, they said the website was well laid out. With further prompting I learned that they felt the information given to them through the graphs could have been in simpler language and clearer context. They liked that the website could be paced the way they preferred and not "auto-driven. I could stop it when I needed and slow it down." They emphasized that the charts needed to be "stupid simple". The use of images and constant repition of "maternal mortality" extablished a clear theme of the seriousness of the siutation for mother and child alike.
+
+
+
 
 #### Changes to Visuals based on Interviews 
 
