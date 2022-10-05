@@ -84,4 +84,4 @@ I was very lucky to have such enthusiasic participants and had a lot of feedback
 
 [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
 
-[Return to Portfolio](https://svp893.github.io/Philip-Portfolio.html)
+[Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
