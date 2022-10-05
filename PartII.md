@@ -81,7 +81,7 @@ I was very lucky to have such enthusiasic participants and had a lot of feedback
 <li> I am going to add more countries to the stacked area graph to make it easier to see comparisons of trend increase and will adjust to a line graph. </li>
 
 [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
-<br>
+
 [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
-<br>
+
 [Return to Portfolio](https://svp893.github.io/Philip-Portfolio.html)
