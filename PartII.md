@@ -1,10 +1,12 @@
 ### [Portfolio](https://svp893.github.io/Philip-Portfolio/)
-
+<br>
+### [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
+<br>
+### [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
+<br>
 ## Part II
-
-[Link to Wireframe/Storyboard](https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/index.html)
-
-<script src="https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/embed.js"></script>
+<br>
+### [Link to Wireframe/Storyboard](https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/index.html)
 
 ------------------------------------------
 
@@ -79,8 +81,8 @@ I was very lucky to have such enthusiasic participants and had a lot of feedback
 <li> I am going to add more countries to the stacked area graph to make it easier to see comparisons of trend increase and will adjust to a line graph. </li>
 <li> Flush out action items and integrate suggestions from Participant 2, such as pregnant parent support for those uninsured </li>
 <br>
-[Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
+## [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
 <br>
-[Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
+## [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
 <br>
 [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
