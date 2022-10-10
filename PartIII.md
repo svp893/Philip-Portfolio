@@ -1,11 +1,11 @@
-### [Portfolio](https://svp893.github.io/Philip-Portfolio/)
+## [Portfolio](https://svp893.github.io/Philip-Portfolio/)
 
-### [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
-
+# Final Project
+### [Part I](https://svp893.github.io/Philip-Portfolio/PartI.html)
 ### [Part II](https://svp893.github.io/Philip-Portfolio/PartII.html)
 
 ## Part III
-
+<br>
 Part III of the assignment pushed me to consider, why is this worth my time? In order to find the answer, I reflected on the feedback provided by the user research. Most participants seemed confused by the audience of my site, therefore, I decided to select medical practitioners, researchers and advocates as the intended audience. By selecting this audience, I was able to better understand how to focus the outline I had built out in Part I and II. The data I needed to present had to educate the audience on why the pregnancy-related mortality rates were so awful; and my storytelling needed to support this tone as well.  
 <br>
 Considering the audience, I also had to show trends across several data sets as to what was enabling these high rates of unnecessary pregnacy-related mortalities. From my work experience as a public heatlh worker and researcher, I felt that showing implicit causes were as important as showing explicit. Showing factors like impact of community, location type or race/ethnicity were essential to setting the stage for the personal story I incorporated and the action steps. By showing these data sets, I was also setting up the action items, which addressed a wide range of steps that could be taken at the community level to the practioner level, as well.
