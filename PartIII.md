@@ -6,17 +6,17 @@
 ## Part III
 
 Part III of the assignment pushed me to consider, *why is this worth my time*? In order to find the answer, I reflected on the feedback provided by the user research. Most participants seemed confused by the audience of my site, therefore, I decided to select medical practitioners, researchers and advocates as the intended audience. By selecting this audience, I was able to better understand how to focus the outline I had built out in Part I and II. The data I needed to present had to educate the audience on why the pregnancy-related mortality rates were so awful through evidence; and my storytelling needed to support this tone as well.  
-<br>
+
 Considering the audience, I also had to show insights across several data sets that explained what combination of factors were enabling these high rates of unnecessary pregnacy-related mortalities. From my work experience as a public heatlh worker and researcher, I felt that showing implicit causes were as important as showing explicit. Showing factors like impact of community, location type or race and ethnicity were essential to setting the stage for the personal story I incorporated and the action steps. By showing these data sets, I was also setting up the action items, which addressed a wide range of steps that could be taken at the community level to the practioner level, as well.
-<br>
+
 Given the topic, I felt language and palette also had to reflect the seriousness of the story. I searched extensively for a color palette that allowed me to show differences amongst categories but did not make my visualizations succumb to the rainbow trap. As one of my user research participants mentioned, I shifted away from gradients for the graphs as they were not comparing ranges but instead categories. The palette used is an original combination for more subdued but rich hues. I also used more frank and serious language in explaining my visualizations. The infographic illustrating the impact of race and ethnicity is an example of this. I think further iterations would be helful, however, I did an impromptu user research test for Part III and they found this visual to be extremely helpful to understand the scale of the numbers shared and the language guiding them from the first visual to the second. They were extremely impressed with the time lapse data set of the United States' pregnancy-related mortality rates compared to other countries's. The time lapse graph came out of a suggestion from my user research in Part II. Another suggestion from my user research was to use more gender inclusive language, this led to shifting from "maternal" to "pregnancy-related". Learning to adjust the language in a way that is not too sudden yet promotes inclusion was an important exercise that I know will carry over into my work.
-<br>
+
 I was very intentional with my grid, aiming for left alignment for most of my written words that weren't titles. I also tried to stay as consistent as possible across all the platforms I used to have the same typography. I chose a font that echoed a newspaper like the New York Times, as I find they publish similar articles addressing similar topics and wanted the "feel" of the site to be familiar to the audience. 
-<br>
+
 Using the story of Serena Williams was important because it tied the relevance of my article to current events. Even though the loss of life has been happening for years, Williams' story brought the attention that tipped the edge from research to action. Researching the action steps educated me more than I expected. I had not heard of the ridesharing vouchers for expecting parents and found that to be a fantastic idea for a preventative measure. 
-<br>
+
 Overall, I grew immensely from the final project. Writing is something I am very comfortable doing. Using images to also show, as well as tell, the points I am trying to make made the messages all the more powerful and actionable. Applying the lessons we had been building on through the semester, from hierarchy to palette to finding power in simplicity of my graphs, all came together in this work. I am proud of my final piece and thankful for this course and the professor and TA's support and guidance this mini-mester. 
-<br>
+
 ----------------------------------------------------------------
 
 ## [Shorthand Written Component](https://docs.google.com/document/d/1f4RynhKOp7hxsJ9DC-E39qsvuM4WsAgvc5h10cy4Fpw/edit?usp=sharing)
@@ -24,7 +24,7 @@ Overall, I grew immensely from the final project. Writing is something I am very
 ## [Link to Shorthand Page](https://preview.shorthand.com/yd6TwF6iedYKv0Vj)
 <br>
 <script src="https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/embed.js"></script>
-<br>
+
 ----------------------------------------------------------------
 
 ## Sources
