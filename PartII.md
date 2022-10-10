@@ -1,10 +1,10 @@
 ## [Portfolio](https://svp893.github.io/Philip-Portfolio/)
 
 # Final Project
-### [Part I](https://svp893.github.io/Philip-Portfolio/PartI.html)
-### [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
 
+### [Part I](https://svp893.github.io/Philip-Portfolio/PartI.html)
 ## Part II
+### [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
 <br>
 ### [Link to Wireframe/Storyboard](https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/index.html)
 
