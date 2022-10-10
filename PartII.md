@@ -77,7 +77,9 @@ I was very lucky to have such enthusiasic participants and had a lot of feedback
 <li> The line graph showing where the US stands needs to either have larger sized dots or I should simplify the groups to continents to make it easier to see </li>
 <li> I am going to add more countries to the stacked area graph to make it easier to see comparisons of trend increase and will adjust to a line graph. </li>
 <li> Flush out action items and integrate suggestions from Participant 2, such as pregnant parent support for those uninsured </li>
-<br>
+
+----------------------------------------------------------------
+
 ### [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
 ### [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
 [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
