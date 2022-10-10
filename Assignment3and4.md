@@ -1,6 +1,6 @@
 ## [Portfolio](https://svp893.github.io/Philip-Portfolio/)
 
-# Assignment 3 and 4
+# Assignment 3 and 4 - Redesigning a Visualization
 
 ### Original Visualization
 
