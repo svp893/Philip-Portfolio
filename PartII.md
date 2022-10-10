@@ -5,7 +5,7 @@
 ### [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
 ## Part II
 ### [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
-<br>
+
 ### [Link to Wireframe/Storyboard](https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/index.html)
 
 ------------------------------------------
