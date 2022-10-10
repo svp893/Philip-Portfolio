@@ -4,7 +4,7 @@
 ### [Part I](https://svp893.github.io/Philip-Portfolio/PartI.html)
 ### [Part II](https://svp893.github.io/Philip-Portfolio/PartII.html)
 ## Part III
-<br>
+
 Part III of the assignment pushed me to consider, *why is this worth my time*? In order to find the answer, I reflected on the feedback provided by the user research. Most participants seemed confused by the audience of my site, therefore, I decided to select medical practitioners, researchers and advocates as the intended audience. By selecting this audience, I was able to better understand how to focus the outline I had built out in Part I and II. The data I needed to present had to educate the audience on why the pregnancy-related mortality rates were so awful through evidence; and my storytelling needed to support this tone as well.  
 <br>
 Considering the audience, I also had to show insights across several data sets that explained what combination of factors were enabling these high rates of unnecessary pregnacy-related mortalities. From my work experience as a public heatlh worker and researcher, I felt that showing implicit causes were as important as showing explicit. Showing factors like impact of community, location type or race/ethnicity were essential to setting the stage for the personal story I incorporated and the action steps. By showing these data sets, I was also setting up the action items, which addressed a wide range of steps that could be taken at the community level to the practioner level, as well.
@@ -16,10 +16,10 @@ I was very intentional with my grid, aiming for left alignment for most of my wr
 Using the story of Serena Williams was important because it tied the relevance of my article to current events. Even though the loss of life has been happening for years, Williams' story brought the attention that tipped the edge from research to action. Researching the action steps educated me more than I expected. I had not heard of the ridesharing vouchers for expecting parents and found that to be a fantastic idea for a preventative measure. 
 <br>
 Overall, I grew immensely from the final project. Writing is something I am very comfortable doing. Using images to also show, as well as tell, the points I am trying to make made the messages all the more powerful and actionable. Applying the lessons we had been building on through the semester, from hierarchy to palette to finding power in simplicity of my graphs, all came together in this work. I am proud of my final piece and thankful for this course and the professor and TA's support and guidance this mini-mester. 
-
+<br>
 ----------------------------------------------------------------
 
-## [Shortahnd Written Component](https://docs.google.com/document/d/1f4RynhKOp7hxsJ9DC-E39qsvuM4WsAgvc5h10cy4Fpw/edit?usp=sharing)
+## [Shorthand Written Component](https://docs.google.com/document/d/1f4RynhKOp7hxsJ9DC-E39qsvuM4WsAgvc5h10cy4Fpw/edit?usp=sharing)
 <br>
 ## [Link to Shorthand Page](https://preview.shorthand.com/yd6TwF6iedYKv0Vj)
 <br>
