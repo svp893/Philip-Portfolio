@@ -1,7 +1,7 @@
 ## [Portfolio](https://svp893.github.io/Philip-Portfolio/)
 
 # Final Project
-### [Part I](https://svp893.github.io/Philip-Portfolio/PartI.html)
+### [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
 ### [Part II](https://svp893.github.io/Philip-Portfolio/PartII.html)
 ## Part III
 
