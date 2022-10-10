@@ -15,10 +15,10 @@ I found this data visualization to be significant as it aimed to explore the cur
 <li>The title of the visualization is only the question asked in the survey, without context provided in the article, it is difficult to know the takeaway from people’s responses and how it connects to the bigger picture</li>
 <li>The language of the visualization suggests that this graph is intended for the general public who is curious about Monkeypox</li>
 <li>There is too much text, and in varying font colors, that further hinder the perceptibility</li>
-<li>Having the date of the survey be referenced in the footer is extremely helpful for reliability as it shows the relevancy </li>
+<li>Having the date of the survey be referenced in the footer is extremely helpful for reliability as it shows the relevancy</li>
 <li>The comparison of COVID-19 and Monkeypox is not clearly explained through the title and leaves the audience to infer why there is a comparison</li>
 <li>Providing more information on the size of the sample and demographics would have contributed to its truthfulness by offering transparency of the sampling process</li>
-<li>Would it serve the purpose of the article better to reduce the number of categories and change the style of graph? </li>
+<li>Would it serve the purpose of the article better to reduce the number of categories and change the style of graph?</li>
  <br>
 With these reflections as my starting point, I began iterating…
 
