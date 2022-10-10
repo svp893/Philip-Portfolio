@@ -1,9 +1,10 @@
-# Part III
-
+### [Portfolio](https://svp893.github.io/Philip-Portfolio/)
 <br>
-[Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
+### [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
 <br>
-[Part II](https://svp893.github.io/Philip-Portfolio/PartII.html)
+### [Part II](https://svp893.github.io/Philip-Portfolio/PartII.html)
+<br>
+## Part III
 <br>
 Part III of the assignment pushed me to consider, why is this worth my time? In order to find the answer, I reflected on the feedback provided by the user research. Most participants seemed confused by the audience of my site, therefore, I decided to select medical practitioners, researchers and advocates as the intended audience. By selecting this audience, I was able to better understand how to focus the outline I had built out in Part II. The data I needed to present had to educate the audience on why the pregnancy-related mortality rates were so awful; and my storytelling needed to support this tone as well.  
 <br>
@@ -12,11 +13,13 @@ Considering the audience, I also had to show trends across several data sets as 
 Given the topic, I felt language and palette also had to reflect the seriousness of the story. I searched extensively for a color palette that allowed me to show differences amongst categories but did not make my visualizations succumb to the rainbow trap. I also used more frank and serious language in explaining my visualizations. The infographic illustrating the impact of race and ethnicity is an example of this. I think further iterations would be helful, however, I did an impromptu user research test and they found this to be extremely helpful to understand the scale of the numbers shared and the language guiding them from the first visual to the second. They were extremely impressed with the time lapse data set of the United States' pregnancy-related mortality rates compared to other countries's. The time lapse graph came out of a suggestion from my user research in Part II. Another suggestion from my user research was to use more gender inclusive language, this led to shifting from maternal mortality to pregnancy-related, which I think is an important shift in the healthcare field to ensure safety and inclusion of all patients. 
 <br>
 Using the story of Serena Williams was important because it tied the relevance of my article to current events. Even though the loss of life has been happening for years, Williams' story brought the attention that tipped the edge from research to action. Even researching the action steps educated me more than I expected. I had not heard of the ridesharing vouchers for expecting parents and found that to be a fantastic idea for a preventative measure. 
-
-## [Shorthand Page](https://preview.shorthand.com/yd6TwF6iedYKv0Vj)
 <br>
 ## [Shortahnd Written Component](https://docs.google.com/document/d/1f4RynhKOp7hxsJ9DC-E39qsvuM4WsAgvc5h10cy4Fpw/edit?usp=sharing)
-
+<br>
+## [Link to Shorthand Page](https://preview.shorthand.com/yd6TwF6iedYKv0Vj)
+<br>
+<script src="https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/embed.js"></script>
+<br>
 ## Sources
 1. Wager, Emma. (1/21/2022). "How does health spending in the US compare to other countries". Peterson KFF. https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries-2/#Health%20consumption%20expenditures%20per%20capita,%20U.S.%20dollars,%20PPP%20adjusted,%202020%20or%20nearest%20year. Accessed on October 2, 2022.
 2. Wager (2022).
@@ -32,6 +35,9 @@ Using the story of Serena Williams was important because it tied the relevance o
 12. HHS Press Office. (4/1/2022). "Health Resources and Services Administration Announces Availability of New Funding to Support Community-Based Doula". U.S. Department of Health and Human Services.https://www.hhs.gov/about/news/2022/04/01/hrsa-announced-the-availability-of-4-million-for-hiring-training-certifying-compensating-community-based-doulas.html. Accessed on October 5, 2022.
 March of Dimes. (1/13/2019). "March of Dimes Position Statement: Doulas and Birth Outcomes". March of Dimes. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.marchofdimes.org/materials/Doulas%20and%20birth%20outcomes%20position%20statement%20final%20January%2030%20PM.pdf. Accessed on October 9, 2022.
 13. Surgo Ventures. (3/31/2021). "Surgo Ventures Announces Rides for Moms Program with Uber". Surgo Ventures. https://surgoventures.org/newsroom-all/surgo-ventures-announces-rides-for-moms-program-with-uber. Accessed on October 9, 2022. 
-
-
- [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
+<br>
+### [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
+<br>
+### [Part II](https://svp893.github.io/Philip-Portfolio/PartII.html)
+<br>
+[Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
