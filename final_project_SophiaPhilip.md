@@ -4,7 +4,7 @@
 ## Part I
 ### [Part II](https://svp893.github.io/Philip-Portfolio/PartII.html)
 ### [Part III](https://svp893.github.io/Philip-Portfolio/PartIII.html)
-<br>
+
 ### Project Summary
 The final project will be reporting on the current landscape of maternal health in the United States and the suprisingly high rates of maternal and infant mortality across different identity demographics. The goal is to further humanize the staggering number of unnecessary maternal and infant deaths as well as solutions that are currently being or can be implemented to reduce those rates.
 
@@ -31,7 +31,6 @@ The final project will be reporting on the current landscape of maternal health 
 <img src="https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Final%20Project%20Sketch%20(2)-page-001.jpg" width="300" height="auto">
 
 #### Initial Data Visualizations
-
 <img src="https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/High%20rate%20of%20avoidable%20deaths.jpg" width="300" height="auto">
 <img src="https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/High%20rating%20of%20performance.jpg" width="300" height="auto">
 <img src="https://raw.githubusercontent.com/svp893/Philip-Portfolio/main/images/Rural%20versus%20Urban.jpg" width="300" height="auto">
