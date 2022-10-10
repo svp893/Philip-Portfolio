@@ -17,13 +17,17 @@ I was very intentional with my grid, aiming for left alignment for my written wo
 Using the story of Serena Williams was important because it tied the relevance of my article to current events. Even though the loss of life has been happening for years, Williams' story brought the attention that tipped the edge from research to action. Researching the action steps educated me more than I expected. I had not heard of the ridesharing vouchers for expecting parents and found that to be a fantastic idea for a preventative measure. 
 <br>
 Overall, I grew immensely from the final project. Writing is something I am very comfortable doing. Using images to also show, as well as tell, the points I am trying to make made the messages all the more powerful and actionable. Applying the lessons we had been building on through the semester, from hierarchy to palette to finding power in simplicity of my graphs, all came together in this work. I am proud of my final piece and thankful for this course the professor and TA's support and guidance this mini-mester. 
-<br>
+
+----------------------------------------------------------------
+
 ## [Shortahnd Written Component](https://docs.google.com/document/d/1f4RynhKOp7hxsJ9DC-E39qsvuM4WsAgvc5h10cy4Fpw/edit?usp=sharing)
 <br>
 ## [Link to Shorthand Page](https://preview.shorthand.com/yd6TwF6iedYKv0Vj)
 <br>
 <script src="https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/embed.js"></script>
-<br>
+
+----------------------------------------------------------------
+
 ## Sources
 1. Wager, Emma. (1/21/2022). "How does health spending in the US compare to other countries". Peterson KFF. https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries-2/#Health%20consumption%20expenditures%20per%20capita,%20U.S.%20dollars,%20PPP%20adjusted,%202020%20or%20nearest%20year. Accessed on October 2, 2022.
 2. Wager (2022).
@@ -39,7 +43,9 @@ Overall, I grew immensely from the final project. Writing is something I am very
 12. HHS Press Office. (4/1/2022). "Health Resources and Services Administration Announces Availability of New Funding to Support Community-Based Doula". U.S. Department of Health and Human Services.https://www.hhs.gov/about/news/2022/04/01/hrsa-announced-the-availability-of-4-million-for-hiring-training-certifying-compensating-community-based-doulas.html. Accessed on October 5, 2022.
 March of Dimes. (1/13/2019). "March of Dimes Position Statement: Doulas and Birth Outcomes". March of Dimes. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.marchofdimes.org/materials/Doulas%20and%20birth%20outcomes%20position%20statement%20final%20January%2030%20PM.pdf. Accessed on October 9, 2022.
 13. Surgo Ventures. (3/31/2021). "Surgo Ventures Announces Rides for Moms Program with Uber". Surgo Ventures. https://surgoventures.org/newsroom-all/surgo-ventures-announces-rides-for-moms-program-with-uber. Accessed on October 9, 2022. 
-<br>
+
+----------------------------------------------------------------
+
 ### [Part I](https://svp893.github.io/Philip-Portfolio/final_project_SophiaPhilip.html)
 ### [Part II](https://svp893.github.io/Philip-Portfolio/PartII.html)
 [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
