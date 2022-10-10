@@ -17,4 +17,21 @@ Using the story of Serena Williams was important because it tied the relevance o
 <br>
 ## [Shortahnd Written Component](https://docs.google.com/document/d/1f4RynhKOp7hxsJ9DC-E39qsvuM4WsAgvc5h10cy4Fpw/edit?usp=sharing)
 
+## Sources
+1. Wager, Emma. (1/21/2022). "How does health spending in the US compare to other countries". Peterson KFF. https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries-2/#Health%20consumption%20expenditures%20per%20capita,%20U.S.%20dollars,%20PPP%20adjusted,%202020%20or%20nearest%20year. Accessed on October 2, 2022.
+2. Wager (2022).
+3. Reproductive Health. Pregnancy Mortality Surveillance System. CDC. https://www.cdc.gov/reproductivehealth/maternal-mortality/pregnancy-mortality-surveillance-system.htm. Accessed on October 4, 2022.
+4. Martin, Nina. (5/12/2017). "The Last Person You'd Expect to Die in Childbirth". NPR Morning Edition. https://www.npr.org/2017/05/12/527806002/focus-on-infants-during-childbirth-leaves-u-s-moms-in-danger. Accessed on October 2, 2022.
+5. Williams, Serena. (4/5/2022). "How Serena Williams Saved Her Own Life". Elle Magazine. https://www.elle.com/life-love/a39586444/how-serena-williams-saved-her-own-life/. Accessed on October 2, 2022.
+6. Reproductive Health. CDC.
+7. Reproductive Health. CDC.
+8. National Resource. (2018). "Report from Nine Maternal Mortality Review Committees". Review to Action. https://reviewtoaction.org/national-resource/report-nine-mmrcs. Accessed on October 7, 2022.
+9. National Resource. (2018).
+10. National Resource (2018).
+11. HHS Press Office. (4/13/2022). "CMS Announces Key Actions to Reduce Maternal Mortality and Morbidity" . U.S. Department of Health and Human Services. https://www.hhs.gov/about/news/2022/04/13/cms-announces-key-actions-reduce-maternal-mortality-morbidity.html. Accessed on October 4, 2022.
+12. HHS Press Office. (4/1/2022). "Health Resources and Services Administration Announces Availability of New Funding to Support Community-Based Doula". U.S. Department of Health and Human Services.https://www.hhs.gov/about/news/2022/04/01/hrsa-announced-the-availability-of-4-million-for-hiring-training-certifying-compensating-community-based-doulas.html. Accessed on October 5, 2022.
+March of Dimes. (1/13/2019). "March of Dimes Position Statement: Doulas and Birth Outcomes". March of Dimes. chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.marchofdimes.org/materials/Doulas%20and%20birth%20outcomes%20position%20statement%20final%20January%2030%20PM.pdf. Accessed on October 9, 2022.
+13. Surgo Ventures. (3/31/2021). "Surgo Ventures Announces Rides for Moms Program with Uber". Surgo Ventures. https://surgoventures.org/newsroom-all/surgo-ventures-announces-rides-for-moms-program-with-uber. Accessed on October 9, 2022. 
+
+
  [Return to Portfolio](https://svp893.github.io/Philip-Portfolio/)
