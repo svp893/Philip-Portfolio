@@ -31,7 +31,7 @@ I hope to learn how to better present my data so that audience members can more 
 
 ---
 
-## [Assignment #3 and #4](https://svp893.github.io/Philip-Portfolio/Assignment3and4.html)
+## [Assignment 3 and 4 - Redesigning a Visualization](https://svp893.github.io/Philip-Portfolio/Assignment3and4.html)
 
 ---
 
