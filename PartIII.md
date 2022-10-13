@@ -22,8 +22,6 @@ Overall, I grew immensely from the final project. Writing is something I am very
 ## [Shorthand Written Component](https://docs.google.com/document/d/1f4RynhKOp7hxsJ9DC-E39qsvuM4WsAgvc5h10cy4Fpw/edit?usp=sharing)
 
 ## [Link to Shorthand Page](https://preview.shorthand.com/yd6TwF6iedYKv0Vj)
-<br>
-<script src="https://carnegiemellon.shorthandstories.com/being-a-mother-is-not-all-that-it-seems/embed.js"></script>
 
 ----------------------------------------------------------------
 
